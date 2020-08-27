@@ -1,0 +1,542 @@
+fdg
+cat history.txt
+cadg
+df
+cat history.txt
+sffdg
+gvn
+cat history.txt
+history
+ls
+exit
+mkdir f1
+rmdir f1
+ ls
+ls
+rmdir f1
+ls
+rmdir  f1
+rmdir fi
+rkdir f1
+rmdir f1
+rmdir f1
+mkdir f1
+rmdir f1
+ls
+mkdir f1
+rmdir f1
+ls
+mkdir newF
+mkdir newF1
+mkdir newF3
+mkdir newF4
+ls
+mkdir newF1
+ls
+mkdir newF1
+mkdir newF2
+ls
+ls
+mkdir newF1
+ls
+mkdir newF2
+mkdir newF3
+mkdir newF4
+ls
+rmdir newF3
+ls
+mkdir newF1
+ls
+mkdir newF2
+mkdir newF3
+mkdir newF4
+ls
+mkdir f1
+ls
+mkdir f2
+mkdir f3
+mkdir f4
+ls
+mkdir f2
+rmdir f1
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f4
+mkdir f5
+ls
+rmdir f4
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f4
+ls
+rmdir f4
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f4
+ls
+rmdir
+rmdir f4
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f4
+ls
+rmdir f2
+rmdir f4
+ls
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f4
+ls
+rmdir f4
+ls
+mkdir f1
+cd f1
+mkdir f1
+mkdir f2
+mkdir f3
+ls
+cd f2
+mkdir f1
+ls
+cd f1
+mkdir f1
+mkdir f2
+ls
+cd f1
+mkdir f1
+mkdir f3
+mkdir f2
+ls
+rmdir
+ rmdir f3
+mkdir f1
+mkdir f2
+mkdir f3
+ls
+rmdir f1
+ls
+mkdir  f2
+ls
+mkdir f2
+rmdir  f2
+ls
+mkdir f1
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f4
+mkdir f4
+rmdir
+rmdir f4
+ls
+mkdir f4
+ls
+cd f3
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f4
+ls
+cd
+cd f1
+ls
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f4
+ls
+rmdir f2
+ls
+mkdir f2
+mkdir f4
+cd f4
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f4
+mkdir f4
+mkdir f5
+ls
+cd f4
+mkdir f1
+ls
+cd f1
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f4
+ls
+cd f4
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f4
+mkdir f5
+ls
+cd f4
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f4
+mkdir f5
+ls
+cd f1
+f1
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f4
+ls
+cd f1
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f4
+mkdir f5
+ls
+cd f1
+mkdir f1
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f4
+mkdir f5
+ls
+cd f1
+mkdir f2
+mkdir f3
+mkdir f4
+ls
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f4
+ls
+cd f1
+mkdir f2
+mkdir f3
+mkdir f4
+cd.
+ls
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f4
+mkdir f5
+ls
+cd f1
+mkdir f2
+mkdir ff3
+mkdir f4
+ls
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f4
+mkdir f5
+ls
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f4
+mkdir f5
+ls
+cd f1
+mkdir f1
+mkdir f2
+cd.
+cd f2
+mkdir f3
+mkdir f4
+ls
+mkdir f
+ls
+rmdir f
+ls
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f4
+mkdir f5
+ls 
+ls
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f4
+mkdir f5
+ls
+cd f1
+mkdir f2
+mkdir f3
+mkdir f4
+ls
+cd.
+cd f2
+mkdir f3
+mkdir f4
+mkdir f5
+ls
+cd.
+ls
+mkdir f1
+mkdir f2
+mkdir f3
+ls
+cd f1
+mkdir f2
+mkdir f3
+cd.
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f4
+mkdir f
+rmdir f
+mkdir f5
+ls
+cd f1
+mkdir f2
+mkdir f3
+mkdir f4
+mkdir f5
+ls 
+cd.
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f4
+ls
+cd f1
+mkdir f2
+mkdir f3
+mkdir f4
+cd.
+mkdir f1
+mkdir f2
+mkdir f3
+cd f1
+cd.
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f4
+ls
+cd f1
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f4
+cd.
+ls
+mkdir f1
+mkdir f2
+mkdir f3
+cd f1
+mkdir f2
+mkdir f3
+la
+ls
+cd.
+mkdir f1
+mkdir f2
+mkdir f3
+cd f1
+mkdir f1
+rmdir f2
+rmdir f1
+ls
+mkdir f2
+ls
+cd.
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f4
+mkdr f4
+mkdir f4
+ls
+cd d1
+cd f1
+mkdir f2
+mkdir f3
+mkdir f4
+ls
+cd.
+ls
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f4
+ls
+cd f1
+mkdir f2
+mkdir f3
+mkdir f4
+cd.
+ls
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f3
+mkdir f4
+ls
+cd f1
+mkdir f2
+mkdir f3
+mkdir f4
+ls
+cd.
+cd.
+mkdir f1
+cd f1
+cd.
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f4
+ls
+cd f1
+mkdir f1
+mkdir f2
+cd f1
+mkdir f2
+ls
+cd.
+ls
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f4
+ls
+tree
+cd f1
+mkdir f2
+mkdir f3
+mkdir f3
+mkdir f4
+ls
+tree
+cd.
+ls
+tree
+cd f2
+mkdir f3
+mkdir f4
+ls
+tree
+cd.
+cd f3
+mkdir f4
+cd.
+ls
+tree
+history
+mkdir f1
+mkdir f2
+ls
+tree
+mkdir f1
+mkdir f2
+ls
+ls -l
+mkdir f1
+mkdir f2
+ls
+ls -l
+ls
+mkdir f1
+ls
+ls -l
+cat history
+mkdir f1
+mkdir f2
+ls
+ls -1
+ls -l
+
+
+cat history.txt
+mkdir f1
+mkdir f2
+mkdir f3
+ls
+ls -l
+cd f1
+mkdir f2
+cd f2
+cd.
+cd.
+cd.
+cd.
+tree
+mkdir f1
+mkdir f2
+mkdir f3
+nkdir f4
+ls
+mkdir f4
+ls -l
+mkdir f1
+mkdir f2
+mkdir f3
+mkdir f4
+ls
+ls -l
+cd f1
+mkdir f2
+ls
+cd f2
+mkdir f3
+cd f3
+mkdir f3
+rmdir f3
+mkdir f4
+cd f4
+cd..
+ls -l
+tree
+pwd
+mkdir f1
+mkdir f2
+ls -l
+cd f1
+pwd
+cd..
+mkdir f1
+cd f1
+mkdir f1
+cd f1
+cd f2
+mkdir f3
+cd f3
+mkdir f1
+mkdir f2
+mkdir f3
+ls
+ls -l
+cd f1
+mkdir fq
+mkdir f2
+mkdir f3
+ls
+cd fq
+mkdir f1
+cd f1
+mkdir f1
+cd f1
+mkdir f2
+cd f2
+cd.
+tree
+cd f2
+mkdir f3
+cd.
+tree
+exit
+pwd
